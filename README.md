@@ -1,8 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xxxrobert138-netizen&label=Profile%20views&color=0e75b6&style=flat" alt="xxxrobert138-netizen" /> </p>
 <img width="960" height="1280" alt="IMG_20250217_150134_322 (1)" src="https://github.com/user-attachments/assets/4f785759-0104-43d3-8693-9dfb91a2d2af" />
 <h1 align="center">Hi 👋, I'm ROBERT</h1>
 <h3 align="center">A passionate backend developer from Belarus</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xxxrobert138-netizen&label=Profile%20views&color=0e75b6&style=flat" alt="xxxrobert138-netizen" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxxrobert138-netizen" alt="xxxrobert138-netizen" /></a> </p>
 
