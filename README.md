@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&animation=blinking&stroke=Robert%20Pyrski)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Robert%20Pyrski&animation=blinking)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Robert
 ===============================================================================================================================
 
