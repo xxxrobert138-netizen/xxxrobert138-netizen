@@ -1,5 +1,4 @@
 <img width="960" height="1280" alt="IMG_20250217_150134_322 (1)" src="https://github.com/user-attachments/assets/4f785759-0104-43d3-8693-9dfb91a2d2af" />
-![](./profile-3d-contrib/profile-green-animate.svg)
 <h1 align="center">Hi 👋, I'm ROBERT</h1>
 <h3 align="center">A passionate backend developer from Belarus</h3>
 
